@@ -11,8 +11,7 @@ FONT SIZE SYSTEM (px)
   box-sizing: border-box;
 }
 body {
-  border-top: 5px solid #6741d9;
-  border-bottom: 5px solid #6741d9;
+  
   font-family: "Inter", sans-serif;
   color: #343a40;
 }
